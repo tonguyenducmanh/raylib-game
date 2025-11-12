@@ -116,3 +116,12 @@ Nếu thiếu chúng, linker báo lỗi: `Undefined symbols`
 4. VSCode launch LLDB debugger chạy "main"
 5. Chương trình hiển thị trên màn hình
 ```
+
+## Để đóng gói thành file cài đặt cho MacOS
+
+chạy file sh sau
+
+```
+chmod +x scripts/package_mac_app.sh
+./scripts/package_mac_app.sh
+```
