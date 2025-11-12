@@ -1,5 +1,7 @@
 # Project test việc sử dụng raylib để vẽ GUI
 
+![demo](imgs/demo.png)
+
 ## Build raylib
 
 clone raylib từ source sau
